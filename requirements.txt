@@ -1,0 +1,2 @@
+pygame==2.6.0
+pygame-screen-record==0.1.1
